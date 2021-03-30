@@ -51,4 +51,4 @@ import numpy as np
   - Chapter 9 – Face Detection
   
 ## Get Help
-- If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
+- If appropriate, [open an issue](https://github.com/codemike513/Python-OpenCV/issues) on GitHub
