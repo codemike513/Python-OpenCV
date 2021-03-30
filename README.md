@@ -18,7 +18,7 @@ This is a beginner's repository to get started with OpenCV :rocket: :tada:
 
 Clone the repository and use it in your local system
 ```console
-git clone 
+git clone https://github.com/codemike513/Python-OpenCV.git
 ```
 
 Then you will have to install the OpenCV Library from your terminal.
